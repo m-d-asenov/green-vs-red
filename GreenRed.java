@@ -1,5 +1,5 @@
 /**
-* Each cell on a grid is eithr green(1) or red(0).
+* Each cell on a grid is either green(1) or red(0).
 * The size of the grid, i.e. its height and width, is taken from the first line of the input.
 *
 * The two integers are separated by a comma and a space, 
